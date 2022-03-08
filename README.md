@@ -13,4 +13,4 @@ https://www.figma.com/file/5D9pDuLtS042hzaoN69Kd7/Free--Landing--Page-Template
 
 поиск по css элементам - https://docs.google.com/document/d/1hbb61ygTr2ZzmhtOK5n8Pj6hdW1okm_TeBru_W0GhUE/edit?usp=sharing
 
-![alt text](assets/images/git.png)
+![alt text](https://ibb.co/YLWySFK)
