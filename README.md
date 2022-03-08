@@ -19,4 +19,4 @@ sdasdasdasdasd asdasdasdasd asdasdad
 
 asdasdasddashttps://docs.google.com/document/d/1hbb61ygTr2ZzmhtOK5n8Pj6hdW1okm_TeBru_W0GhUE/edit?usp=sharing
 
-![alt text](https://ibb.co/YLWySFK)
+![alt text](https://ibb.co/YLWySF
